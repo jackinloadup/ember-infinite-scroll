@@ -25,9 +25,9 @@
     "tests"
   ],
   "dependencies": {
-    "ember": "1.2.0-beta.4"
+    "ember": ">=1.8"
   },
   "devDependencies": {
-    "qunit": "1.12.0"
+    "qunit": ">=1.12.0"
   }
 }
